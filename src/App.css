@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  }
+  .dataManagement,
+  .masterData,
+  .support,
+  .logout {
+  display: flex;
+  margin-top: 25px;
+  margin-left: 25px;
+  /*font-size: 2rem;*/
+  }
+  
+  
